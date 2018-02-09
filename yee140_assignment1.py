@@ -1,6 +1,4 @@
 #Everett Yee
-#ID: 2254345
-#yee140@mail.chapman.edu
 #CPSC 392 Assignment 1
 
 #Dataset: https://www.kaggle.com/usgs/earthquake-database
