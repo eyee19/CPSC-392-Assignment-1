@@ -8,8 +8,8 @@
 
 Magnitude Type can be based on any of the following:
 
-ML: Local (Richter) magnitude
-MS: surface wave magnitude scale
-MB (Mb): Body wave magnitude scale
-MW (Mw): Moment magnitude scale
-MD (Md): Duration magnitude/signal duration
+- ML: Local (Richter) magnitude
+- MS: surface wave magnitude scale
+- MB (Mb): Body wave magnitude scale
+- MW (Mw): Moment magnitude scale
+- MD (Md): Duration magnitude/signal duration
